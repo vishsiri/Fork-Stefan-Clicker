@@ -23,7 +23,7 @@ public class App extends JFrame {
     private JLabel priceItem4;
 
     private long stefanClick = 0;
-    private int clicker = 100;
+    private int clicker = 1;
     private int width = 350;
     private int widthFrame = 400;
     private long saleItemx2 = 1000;
